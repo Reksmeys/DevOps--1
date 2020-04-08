@@ -9,6 +9,6 @@ public class UsersController {
     }
     @GetMapping("/api")
     public String getUser(){
-        return "Hello";
+        return "Hello chhaya & mey";
     }
 }

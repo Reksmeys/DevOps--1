@@ -8,8 +8,6 @@ public class ReksmeyApplication {
 
     public static void main(String[] args) {
 
-        System.out.println("hellodkdkd");
-        System.clearProperty("cls");
 
         SpringApplication.run(ReksmeyApplication.class, args);
     }
