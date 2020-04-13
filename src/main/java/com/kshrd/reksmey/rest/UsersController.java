@@ -9,6 +9,6 @@ public class UsersController {
     }
     @GetMapping("/api")
     public String getUser(){
-        return "Hello chhaya & mey, let test my website I start deploy using jenkins";
+        return "<p>Hello chhaya & mey, let test my website I start deploy using jenkins</p>";
     }
 }
