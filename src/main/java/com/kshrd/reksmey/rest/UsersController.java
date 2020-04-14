@@ -9,6 +9,6 @@ public class UsersController {
     }
     @GetMapping("/api")
     public String getUser(){
-        return "<h1>Opps try again</h1>";
+        return "<h1>Try to deploy using ROOT</h1>";
     }
 }
