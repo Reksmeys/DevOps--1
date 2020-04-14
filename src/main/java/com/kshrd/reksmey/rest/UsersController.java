@@ -9,6 +9,6 @@ public class UsersController {
     }
     @GetMapping("/api")
     public String getUser(){
-        return "<h1>Try to deploy using ROOT</h1>";
+        return "<h1 align='center'>Try to deploy using ROOT : if error just use contextpath: /</h1>";
     }
 }
