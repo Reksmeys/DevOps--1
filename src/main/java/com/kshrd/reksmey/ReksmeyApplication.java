@@ -8,7 +8,6 @@ public class ReksmeyApplication {
 
     public static void main(String[] args) {
 
-
         SpringApplication.run(ReksmeyApplication.class, args);
     }
 
